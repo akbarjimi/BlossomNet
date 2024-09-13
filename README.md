@@ -1,7 +1,3 @@
-Here's a cool and attractive README for your GitHub project in colloquial Persian:
-
----
-
 # 🌸 BlossomNet
 
 ### یه شبکه عصبی ساده برای تشخیص گل‌های آیریس!
